@@ -66,7 +66,7 @@ body {
 	line-height: 74px;
 	text-align: center;
 	color: var(--color-accent);
-	margin: 0 33px;
+	margin: 0 5.5%;
 }
 .time-count__text {
 	font-family: 'Noto Sans', sans-serif;
